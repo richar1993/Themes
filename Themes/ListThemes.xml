@@ -1,5 +1,5 @@
 <themes>
-<data xmls="https://github.com/richar1993/Themes/tree/main/Themes/xml/" walls="https://github.com/richar1993/Themes/tree/main/Themes/wall/" scs="https://github.com/richar1993/Themes/tree/main/Themes/screens/"/>
+<data xmls="https://github.com/richar1993/Themes/tree/main/Themes/xml" walls="https://github.com/richar1993/Themes/tree/main/Themes/wall" scs="https://github.com/richar1993/Themes/tree/main/Themes/screens"/>
 <theme>
 <title>testRC</title>
 <date>24/08/2020</date>
