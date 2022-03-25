@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatBubbleText" value="-1" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <int name="ModFabPressedColor" value="-13619152" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="ModFabNormalColor" value="-13350562" />
+    <boolean name="yoHideSeen" value="true" />
+    <boolean name="newAttach_BottomDesign" value="false" />
+    <boolean name="yoHidePlayG" value="true" />
+    <boolean name="Conv_call_btn" value="true" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="Hide_div" value="true" />
+    <boolean name="Pop_Heds" value="true" />
+    <int name="ModChatColor" value="-13350562" />
+    <boolean name="yoHidePlayC" value="true" />
+    <boolean name="yoHidePlayB" value="true" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="extended_notifi" value="true" />
+    <boolean name="home_imgBK" value="true" />
+    <int name="ModConDarkColor" value="-13350562" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <int name="ModChatRightBubble" value="-1875094162" />
+    <boolean name="Img_highres_btn" value="true" />
+    <boolean name="enable_ig_stories" value="false" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <int name="ModConPickColor" value="-13350562" />
+    <boolean name="onlinechat" value="true" />
+    <int name="ModChatLeftBubble" value="-1691072162" />
+    <string name="ConvoEntry">3</string>
+    <boolean name="yoHideRecord" value="true" />
+    <int name="ModConColor" value="-13350562" />
+    <boolean name="start_bl" value="false" />
+    <string name="ui_home_styleV3">basic</string>
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <string name="convostyle">1</string>
+    <string name="tick_style">oldwaca</string>
+    <boolean name="Img_share_limit" value="true" />
+    <string name="key_story_view">0</string>
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <boolean name="yo_want_airplanemode" value="true" />
+    <int name="ModDarkConPickColor" value="-13350562" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <string name="ui_bottom_style">basic</string>
+    <int name="ModConTextColor" value="-13350562" />
+    <boolean name="my_name" value="true" />
+    <boolean name="yoHideReadB" value="true" />
+    <boolean name="yoHideReadC" value="true" />
+    <string name="Language">0</string>
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="custom_wall" value="false" />
+    <int name="ModChatDarkColor" value="-13350562" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <boolean name="Img_quickcamhold" value="true" />
+    <boolean name="yoHideReadG" value="true" />
+    <int name="ModChatEntry" value="3426654" />
+    <boolean name="Audio_ears" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="bubble_style">gosms</string>
+    <int name="ModChatBtnColor" value="-1" />
+    <string name="HomeEntry">yowa</string>
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <int name="BGColor" value="-315340450" />
+    <boolean name="AttBt" value="true" />
+    <int name="main_text" value="15" />
+    <int name="text_size_pick" value="15" />
+</map>
